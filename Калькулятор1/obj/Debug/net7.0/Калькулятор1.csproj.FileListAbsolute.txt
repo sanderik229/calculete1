@@ -1,0 +1,15 @@
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/bin/Debug/net7.0/Калькулятор1
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/bin/Debug/net7.0/Калькулятор1.deps.json
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/bin/Debug/net7.0/Калькулятор1.runtimeconfig.json
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/bin/Debug/net7.0/Калькулятор1.dll
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/bin/Debug/net7.0/Калькулятор1.pdb
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/obj/Debug/net7.0/Калькулятор1.csproj.AssemblyReference.cache
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/obj/Debug/net7.0/Калькулятор1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/obj/Debug/net7.0/Калькулятор1.AssemblyInfoInputs.cache
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/obj/Debug/net7.0/Калькулятор1.AssemblyInfo.cs
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/obj/Debug/net7.0/Калькулятор1.csproj.CoreCompileInputs.cache
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/obj/Debug/net7.0/Калькулятор1.dll
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/obj/Debug/net7.0/refint/Калькулятор1.dll
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/obj/Debug/net7.0/Калькулятор1.pdb
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/obj/Debug/net7.0/Калькулятор1.genruntimeconfig.cache
+/Users/levonbabaan/Projects/Калькулятор1/Калькулятор1/obj/Debug/net7.0/ref/Калькулятор1.dll
